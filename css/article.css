@@ -1,0 +1,17 @@
+.article {
+    background-color: #f7fafc;
+    border: 2px solid #0d3073;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.article__header {
+    color: #0d3073;
+    text-align: center;
+}
+
+.article__paragraph {
+    color: #0d3073;
+    line-height: 1.6;
+    padding-left: 10px;
+}

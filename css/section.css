@@ -1,0 +1,52 @@
+.section {
+    text-align: center;
+    margin: 10px;
+}
+.section__image {
+    border-radius: 15px;
+    border: 2px solid #0d3073;
+    max-width: 100%;
+}
+
+.js-imageRemove {
+    display: none;
+}
+
+.section__button {
+    background-color: #f7fafc;
+    color: #0d3073;
+    border: 2px solid #0d3073;
+    border-radius: 15px;
+    padding: 10px;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.tableContainer__tableHeader {
+    color: #0d3073;
+    text-align: center;
+}
+
+.tableContainer {
+    overflow-x: auto;
+    background-color: #f7fafc;
+    border-radius: 15px;
+    margin: 10px;
+    border: 2px solid #0d3073;
+}
+
+.table {
+    width: 900px;
+    border-collapse: collapse;
+    margin: 10px auto;
+    color: #0d3073;
+    text-align: center;
+}
+
+.table__cell {
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #0d3073;
+}
+

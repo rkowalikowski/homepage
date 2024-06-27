@@ -1,0 +1,13 @@
+.header {
+    background-color: #f7fafc;
+    border: 2px solid #0d3073;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.header__header {
+    color: #0d3073;
+    font-style: italic solid;
+    font-size: 50px;
+    text-align: center;
+}
